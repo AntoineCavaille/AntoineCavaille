@@ -3,7 +3,6 @@
 - 💡 I’m currently working with technologies like Docker, Kubernetes, AWS and Datadog.
 - 📫 The best way to reach me is through my [Linkedin](https://www.linkedin.com/in/antoineantoineantoine/)
 
-[![Antoine GitHub stats](https://github-readme-stats.vercel.app/api?username=AntoineCavaille&count_private=true&show_icons=true&theme=vue-dark&hide=stars,prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
